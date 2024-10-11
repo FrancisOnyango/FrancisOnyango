@@ -1,5 +1,5 @@
 # Hello! 👋
-I’m Francis Onyango, a beginner data analyst with a background in economics. I’m passionate about transforming data into insights.
+I’m Francis Onyango, a senior data analyst with a background in economics. I’m passionate about transforming data into insights.
 ## Skills & Tools
 - **Programming Languages**: Advanced in Python and R
 - **Data Analysis & Modeling**: Statistical analysis, predictive modeling, and machine learning
